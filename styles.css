@@ -1,0 +1,32 @@
+body{
+    background-color: #bcd6eb;
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    border-width: 12px;
+    border-style: solid;
+    border-color: #5e055e;       
+    border-radius: 0%;  
+    background: url(img/belo-campo-de-lavanda-natural.jpg);
+    text-align: center;
+    box-shadow: inset 5px 15px 50px 10px #d69cf1;
+    background-size: cover;     
+    padding: 20px 20px 20px 20px;
+    outline-width: 15px;
+    outline-style: double;
+    outline-color: #9707bbab;
+    margin-block: solid;
+    margin: auto;
+    margin-top: 50px;
+}
+
+p{
+    text-align: center;
+    padding-top: 150px;
+    font-style: italic;
+    font-size: 60px;
+    color: #ddf035;
+    font-weight: bold;
+}
